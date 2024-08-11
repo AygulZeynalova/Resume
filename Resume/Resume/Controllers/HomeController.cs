@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Resume.AppCode.Services;
 using Resume.Models.Contexts;
 using Resume.Models.Entities;
 
@@ -7,12 +8,13 @@ namespace Resume.Controllers
     public class HomeController : Controller
     {
         private readonly DataContext db;
-        
+        private readonly ICryptoService cryptoService;
 
-        public HomeController(DataContext db)
+        public HomeController(DataContext db, ICryptoService cryptoService)
         {
             this.db = db;
-            
+            this.cryptoService = cryptoService;
+
         }
         public IActionResult Index()
         {
@@ -33,8 +35,29 @@ namespace Resume.Controllers
             return Json(new
             {
                 error = false,
-                message = "Sent"
+                message = "Your message has been received!"
             });
+        }
+        public IActionResult ResumeMain()
+        {
+            return View();
+        }
+        public IActionResult Portfolio()
+        {
+            return View();
+        }
+
+
+
+
+        public string Encrypt(string text)
+        {
+            return cryptoService.Encrypt(text, true);
+        }
+
+        public string Decrypt(string text)
+        {
+            return cryptoService.Decrypt(text);
         }
     }
 }

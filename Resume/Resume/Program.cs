@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Resume.AppCode.Services.Implementation;
+using Resume.AppCode.Services;
 using Resume.Models.Contexts;
 
 namespace Resume
@@ -20,7 +22,8 @@ namespace Resume
                 });
             }
            );
-            
+            builder.Services.AddSingleton<ICryptoService, CryptoService>();
+
             var app = builder.Build();
             app.UseStaticFiles();
 

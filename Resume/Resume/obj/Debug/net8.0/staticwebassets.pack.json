@@ -217,6 +217,10 @@
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\js\\overrides\\toastr.override.js",
+      "PackagePath": "staticwebassets\\js\\overrides\\toastr.override.js"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\js\\vendors\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\bootstrap.min.js"
     },
@@ -239,6 +243,22 @@
     {
       "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\js\\vendors\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\lib\\toastr.js\\toastr.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\lib\\toastr.js\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\lib\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\lib\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resume.Microsoft.AspNetCore.StaticWebAssets.props",

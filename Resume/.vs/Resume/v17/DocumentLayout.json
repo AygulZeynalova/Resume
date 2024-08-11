@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\appcode\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\appcode\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\appcode\\services\\implementation\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\appcode\\services\\implementation\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\models\\contexts\\configurations\\cryptoserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\models\\contexts\\configurations\\cryptoserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Resume\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Resume\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Resume\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Resume\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwFoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T07:44:26.167Z",
+              "WhenOpened": "2024-08-11T09:21:35.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "Resume\\Views\\Shared\\_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "Resume\\Views\\Shared\\_Navbar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T07:44:00.982Z",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Resume\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Resume\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:56:21.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Program.cs",
+              "RelativeDocumentMoniker": "Resume\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Program.cs",
+              "RelativeToolTip": "Resume\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:55:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Models\\Contexts\\Configurations\\CryptoServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Resume\\Models\\Contexts\\Configurations\\CryptoServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Models\\Contexts\\Configurations\\CryptoServiceConfiguration.cs",
+              "RelativeToolTip": "Resume\\Models\\Contexts\\Configurations\\CryptoServiceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:55:23.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Resume\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Resume\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAKACAAAAAAAAAAAAALMCAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T07:40:12.018Z",
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\AppCode\\Services\\Implementation\\CryptoService.cs",
+              "RelativeDocumentMoniker": "Resume\\AppCode\\Services\\Implementation\\CryptoService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\AppCode\\Services\\Implementation\\CryptoService.cs",
+              "RelativeToolTip": "Resume\\AppCode\\Services\\Implementation\\CryptoService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:51:23.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\AppCode\\Services\\ICryptoService.cs",
+              "RelativeDocumentMoniker": "Resume\\AppCode\\Services\\ICryptoService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\AppCode\\Services\\ICryptoService.cs",
+              "RelativeToolTip": "Resume\\AppCode\\Services\\ICryptoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:50:37.695Z",
               "EditorCaption": ""
             }
           ]
