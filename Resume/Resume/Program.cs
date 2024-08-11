@@ -10,7 +10,9 @@ namespace Resume
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddDbContext<DataContext>(cfg =>
+            builder.Services.AddRouting(cfg => cfg.LowercaseUrls = true);
+
+            builder.Services.AddDbContext<DbContext, DataContext>(cfg =>
             {
                 cfg.UseSqlServer(builder.Configuration.GetConnectionString("cString"), opt =>
                 {
@@ -18,6 +20,7 @@ namespace Resume
                 });
             }
            );
+            
             var app = builder.Build();
             app.UseStaticFiles();
 
@@ -29,3 +32,5 @@ namespace Resume
         }
     }
 }
+
+

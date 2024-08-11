@@ -53,6 +53,66 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfont93e3.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\wwwroot\\images\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\images\\avatar-1.jpg"
     },

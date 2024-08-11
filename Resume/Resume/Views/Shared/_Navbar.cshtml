@@ -1,0 +1,13 @@
+﻿<ul class="cd-navigation">
+    <li><a asp-controller="Home" asp-action="index">About Me</a></li>
+    <li><a asp-controller="Home" asp-action="portfolio">Portfolio</a></li>
+    <li><a asp-controller="Blog" asp-action="index">Blog</a></li>
+    <li><a asp-controller="Home" asp-action="contact">Contact Me</a></li>
+    <li class="item-has-children">
+        <a href="index.html">Pages</a>
+        <ul class="sub-menu">
+            <li><a asp-controller="Blog" asp-action="BlogDetails">Blog Details</a></li>
+            <li><a asp-controller="Resume" asp-action="index">Resume (edit mode)</a></li>
+        </ul>
+    </li>
+</ul>

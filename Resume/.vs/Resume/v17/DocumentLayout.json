@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\models\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\models\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C74C395-DC7D-4A8F-92C3-FF65AFF7BBEB}|Resume\\Resume.csproj|solutionrelative:resume\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|c:\\users\\asus\\desktop\\resume\\resume\\resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2754ACC7-3EF7-4B36-8336-2B8BC277C50D}|Resume\\Resume.csproj|solutionrelative:resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Resume\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Resume\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T19:11:17.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Models\\Contexts\\DataContext.cs",
-              "RelativeDocumentMoniker": "Resume\\Models\\Contexts\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Models\\Contexts\\DataContext.cs",
-              "RelativeToolTip": "Resume\\Models\\Contexts\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T19:08:02.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Resume\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T19:05:06.387Z",
+              "WhenOpened": "2024-08-11T07:44:26.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Resume\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Resume\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Resume\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Resume\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T19:04:51.991Z",
+              "WhenOpened": "2024-08-11T07:44:00.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Resume\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Resume\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Resume\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Resume\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKACAAAAAAAAAAAAALMCAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T19:04:38.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Program.cs",
-              "RelativeDocumentMoniker": "Resume\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\Resume\\Program.cs",
-              "RelativeToolTip": "Resume\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T19:01:37.722Z",
+              "WhenOpened": "2024-08-11T07:40:12.018Z",
               "EditorCaption": ""
             }
           ]
