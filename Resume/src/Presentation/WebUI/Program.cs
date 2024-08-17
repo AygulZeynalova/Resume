@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
+using Resume.Models.Entities;
 using Services;
+using Services.Common;
 using Services.Implementation;
 
 namespace Resume
@@ -23,9 +25,13 @@ namespace Resume
             }
            );
             builder.Services.AddSingleton<ICryptoService, CryptoService>();
+            builder.Services.AddScoped< IContactPostService, ContactPostService > ();
 
             var app = builder.Build();
             app.UseStaticFiles();
+
+            app.MapControllerRoute(name: "areas",
+            pattern: "{area:exists}/{controller=DashBoard}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
                 name: "default",

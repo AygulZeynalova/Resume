@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\blog\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\blog\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\home\\resumemain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\home\\resumemain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|c:\\users\\asus\\desktop\\resume\\resume\\src\\presentation\\webui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1E7F80-AFC1-40D0-8B23-2303AA52134A}|src\\Presentation\\WebUI\\WebUI.csproj|solutionrelative:src\\presentation\\webui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,92 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlogDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Blog\\BlogDetails.cshtml",
-              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Blog\\BlogDetails.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Blog\\BlogDetails.cshtml",
-              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Blog\\BlogDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:35:40.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:35:36.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResumeMain.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\ResumeMain.cshtml",
-              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Home\\ResumeMain.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\ResumeMain.cshtml",
-              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Home\\ResumeMain.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:35:31.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Portfolio.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Portfolio.cshtml",
-              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Home\\Portfolio.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Portfolio.cshtml",
-              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Home\\Portfolio.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:35:27.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAALICAAAAAAAAAAAAALkCAAAFAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:34:52.511Z",
+              "WhenOpened": "2024-08-17T09:39:30.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:34:07.045Z",
+              "WhenOpened": "2024-08-17T09:37:58.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "src\\Presentation\\WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAUBAAAAAAAAAAAAAA0BAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:33:23.095Z",
+              "WhenOpened": "2024-08-17T09:37:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "src\\Presentation\\WebUI\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T09:32:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\Presentation\\WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Resume\\Resume\\src\\Presentation\\WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\Presentation\\WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAMgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T09:08:16.449Z",
               "EditorCaption": ""
             }
           ]

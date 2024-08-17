@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Persistence.Contexts.Configurations;
+using Services.Common;
 using System.Security.Cryptography;
 using System.Text;
 using System.Web;

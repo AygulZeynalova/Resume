@@ -2,6 +2,7 @@
 using Persistence.Contexts;
 using Resume.Models.Entities;
 using Services;
+using Services.Common;
 
 namespace Resume.Controllers
 {
@@ -9,12 +10,13 @@ namespace Resume.Controllers
     {
         private readonly DataContext db;
         private readonly ICryptoService cryptoService;
+        private readonly IContactPostService contactPost;
 
-        public HomeController(DataContext db, ICryptoService cryptoService)
+        public HomeController(DataContext db, ICryptoService cryptoService, IContactPostService contactPost)
         {
             this.db = db;
             this.cryptoService = cryptoService;
-
+            this.contactPost = contactPost;
         }
         public IActionResult Index()
         {
@@ -27,11 +29,11 @@ namespace Resume.Controllers
         [HttpPost]
         public IActionResult Contact(string name, string email,string subject, string message)
         {
-            var post= new ContactPost { Name= name, Email=email, Subject= subject, Message= message, CreatedAt=DateTime.Now};
-            
+            var post = new ContactPost { Name = name, Email = email, Subject = subject, Message = message, CreatedAt = DateTime.Now };
+
             db.ContactPosts.Add(post);
             db.SaveChanges();
-            
+
             return Json(new
             {
                 error = false,
