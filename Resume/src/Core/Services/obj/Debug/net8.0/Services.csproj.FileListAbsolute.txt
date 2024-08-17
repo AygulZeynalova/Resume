@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\bin\Debug\net8.0\Services.dll
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.dll
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Resume\Resume\src\Core\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
